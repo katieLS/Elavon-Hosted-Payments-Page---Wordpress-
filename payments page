@@ -1,0 +1,8 @@
+//insert code into payments page on Wordpress websie. Change description and styling as desired.
+
+<div class="elavon_payment_section">
+<p style="text-align:center">Pay your bill online with our new secure online payment feature! We've partnered with Elavon, one of the leading payment platforms, to provide you with a convenient and secure online payment option.</p>
+If you prefer to make your payment over the phone or have questions about your invoice, please call our office at (phone). Our office staff would be happy to assist you.
+<p style="text-align: center;">[getform]</p>
+
+</div>
